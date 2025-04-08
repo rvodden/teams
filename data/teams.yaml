@@ -1,0 +1,5 @@
+- name: Platform & DevEx
+  internal_slack_channel: C0UUGL2FJ
+  members:
+    - rvodden
+    - jhorn
