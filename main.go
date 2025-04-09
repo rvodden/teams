@@ -1,6 +1,6 @@
 package main
 
-//go:generate go run generate.go
+//go:codegen go run codegen.go
 
 import (
 	"github.com/gin-gonic/gin"
